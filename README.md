@@ -1,1 +1,3 @@
 # SBH_Automatic_Presentation_Evaluation
+## PS Code: SBHRCCIIT007
+The Presentation Evaluation Assistant provides an advanced video processing solution tailored for evaluating student presentations. Leveraging sophisticated algorithms encompassing face detection, text and audio classification, and emotion recognition, the application furnishes comprehensive insights into presenters' confidence levels, facial expressions,and overall presentation proficiency. Such thorough analysis serves to equip educators and students with valuable tools for refining their communication skills and delivering compelling presentations with greater impact.
